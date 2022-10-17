@@ -7,10 +7,10 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="compara_preco_litro",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
+    author="pedro_oliveira",
+    author_email="pedro.oliveirape@hotmail.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
