@@ -1,27 +1,20 @@
-# package_name
+# compara_preco_litro
 
 Description. 
-The package package_name is used to:
+The package compara_preco_litro is used to:
 	- 
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install compara_preco_litro
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+pip install compara_preco_litro
 ```
 
 ## Author
-My_name
+Pedro_Oliveira
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
