@@ -2,8 +2,10 @@
 
 Description. 
 The package compara_preco_litro is used to:
-	- 
-	-
+	- Calculate price per liter
+	- Calculate best price per liter
+	- Test if .txt file exists
+	- Read .txt file
 
 ## Installation
 
